@@ -9,10 +9,10 @@ Here are the instructions below <br>
 
 # 1. Data Migration <br> 
 
-I took the mock data set and migrated to three different tables into three tables Contacts , Contacts Methods , Gifts (##### refer to the image 6.Populated Tables in SQL Server ) <br>
+I took the mock data set and migrated to three different tables into three tables Contacts , Contacts Methods , Gifts (**refer to the image 6.Populated Tables in SQL Server** ) <br>
 <br>
 1.I created an SSIS Solution that takes the source file and ingested data into destination tables in SQL Server destination. <br><br>
-2.I can schedule this solution in SQL Server Agent on scheduled basis (daily/monthly/weekly) basis depeding on how we receive data from client  (##### refer to the image 5.DATA MIGRATION AUTOMATION IN SQL SERVER AGENT)
+2.I can schedule this solution in SQL Server Agent on scheduled basis (daily/monthly/weekly) basis depeding on how we receive data from client  (**refer to the image 5.DATA MIGRATION AUTOMATION IN SQL SERVER AGENT**)
 
 
 
