@@ -60,6 +60,8 @@ Implemented below tabs using PowerBI
 
 This tab in PowerBI display with the donor information and contact details. I also categorized these contact absed on the deceased donors  <br> <br>
 
+![1  Visualize Existing Donor Details](https://user-images.githubusercontent.com/12963112/192724177-a34708b3-67fd-498f-8c8c-95b8351b60e4.png) <br>
+
 ##### Donor Gifts <br> 
 
 This tab gives us the information by Total Gifts Received , Amount Received and Gift Ids . Also the bar chart for Total Gifts Received can be drill down to the Gifts <br>
