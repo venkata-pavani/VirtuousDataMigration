@@ -87,7 +87,7 @@ This tab gives the total amount received by these donors over month . <br>
 
 This tab gives the amount per state and city and bar chart can be drill down through Donor Name <br>
 
-![4  Visualize Amount Gift per State](https://user-images.githubusercontent.com/12963112/192724624-2ef9cae3-a980-4d0a-a8bd-305285978c8b.png)
+![4  Visualize Amount Gift per State](https://user-images.githubusercontent.com/12963112/192728432-3b2d46ad-be08-43bf-b8b9-e4011b1811d5.png)
 
 
 
