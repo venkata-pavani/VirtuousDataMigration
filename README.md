@@ -44,7 +44,7 @@ d. Implemented Amount Received or donated based on Amount Received using below D
 
 **Received/Donated = IF(Gifts[amount_received] < 0 ,"Donated","Received") **<br>
 
-###### *Note:: I implemented it in Power BI as I want to show it off in the visual format easily .However I initially implemented these transformations in SQL for initial analysis to check the validity of data available. <br <br>
+###### *Note:: I implemented it in Power BI as I want to show it off in the visual format easily .However I initially implemented these transformations in SQL for initial analysis to check the validity of data available. <br><br>
 
 **Example <br>**
 The JOIN Function in SQL is equivalent to Merge in POWER BI <br>
