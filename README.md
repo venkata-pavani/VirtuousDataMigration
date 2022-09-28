@@ -18,7 +18,7 @@ I took the mock data set and migrated to three different tables into three table
 3. As per the analysis using SQL , I found out that there are lot of incosistencies in data and need to do a lot of back filling , merging , filtering of data required before interpreting it . <br>
 4. Some examples of inconsistencies are  <br> **a.** Missing the type of Contact (household/company) <br> **b.** The requirement of first name and last name for all the donors <br> **c.** Missing donor contact information of those donors who are present in other tables like Gifts and Contacts <br> **d.** Same donor number for mutiple donors and cleaning htem if they are non existing in Other tables <br> **e.** Categorizing the variable depending on the amount received or donated , contact type <br> **e.** Concatenating first name and last name as donor name <br> **f.** Joining tables Contacts and Contact Details and then merging with the table Gifts to create a single view  table after data cleaning and back filling <br> <br>
 
-**Solution <br>
+**Solution** <br>
 
 I used Power BI to implement data transformations and data modeling .<br>
 Some of the data modelling which I implemented on the aggreagted Contact View and Gifts table are as follows <br>
