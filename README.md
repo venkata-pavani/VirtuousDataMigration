@@ -65,13 +65,19 @@ This tab in PowerBI display with the donor information and contact details. I al
 ##### Donor Gifts <br> 
 
 This tab gives us the information by Total Gifts Received , Amount Received and Gift Ids . Also the bar chart for Total Gifts Received can be drill down to the Gifts <br>
-
+![2  Visualize Donor Gifts](https://user-images.githubusercontent.com/12963112/192724556-40db6fc5-ada5-4679-932d-4d755610d6e5.png) <br>
 ##### Amount Received Trend by Donor <br>
 
-This tab gives the total amount received by these donors over month .
+This tab gives the total amount received by these donors over month . <br>
+
+
+![3  Visualize Amount Received Trend](https://user-images.githubusercontent.com/12963112/192724585-b19d8e92-d5c8-4f6c-ac07-91258126a359.png) <br>
 
 ##### Amount Gift per State <br>
 
-This tab gives the amount per state and city and bar chart can be drill down through Donor Name 
+This tab gives the amount per state and city and bar chart can be drill down through Donor Name <br>
+
+![4  Visualize Amount Gift per State](https://user-images.githubusercontent.com/12963112/192724624-2ef9cae3-a980-4d0a-a8bd-305285978c8b.png)
+
 
 
